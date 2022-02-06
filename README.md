@@ -6,17 +6,16 @@ The link to the project site
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service.
-
-
+This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service
+1.SCREENSHOT OF QnA maker(https://github.com/Prathyusha587/FRT/blob/main/A-QnAmaker.jpg) 
 The [QnA Maker Service](https://www.qnamaker.ai) enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes. In this sample, we demonstrate how to use the QnA Maker service to answer questions based on a FAQ text file used as input.
-
+2.SCREENSHOT OF GETTING QauthKey (https://github.com/Prathyusha587/FRT/blob/main/D-QnAauthKey-4.jpg ) 
 ## Concepts introduced in this sample
 The [QnA Maker Service][19] enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes.
 In this sample, we demonstrate 
 -.how to use the Active Learning to generate suggestions for knowledge base.
 -.how to use the Multiturn experience for the knowledge base .
-
+3.SCREENSHOT OF THE BOT CREATED BY ME: (https://github.com/Prathyusha587/FRT/blob/main/B-Bot%20-%202.jpg) 
 # Prerequisites
 `- Follow instructions` [here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/set-up-qnamaker-service-azure) to create a QnA Maker service.
 - Follow instructions [here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/multiturn-conversation) to create multiturn experience.
@@ -119,6 +118,7 @@ This bot uses [QnA Maker Service](https://www.qnamaker.ai), an AI based cognitiv
     ~~~
 
 ## Testing the bot using Bot Framework Emulator
+4.SCREENSHOT OF TESTING THE BOT USING BOT FRAMEWORK EMULATOR(https://github.com/Prathyusha587/FRT/blob/main/E-BotFramework-Emulator-5.jpg) 
 
 [Bot Framework Emulator](https://github.com/microsoft/botframework-emulator) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
 
@@ -137,7 +137,8 @@ One of the basic requirements in writing your own bot is to seed it with questio
 
 # Deploy the bot to Azure
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure][40] for a complete list of deployment instructions.
-
+5.SCREENSHOT OF DEPLOYMENT OF THE BOT ON AZURE (https://github.com/Prathyusha587/FRT/blob/main/F-Deployment-6.jpg) 
+6.SCREENSHOT OF FINAL RUNNING ON NAVIGATION TO WEB:(https://github.com/Prathyusha587/FRT/blob/main/G-Test%20run%20the%20bot%20on%20navigating%20to%20web-7.jpg) 
 # Further reading
 - [Bot Framework Documentation][20]
 - [Bot Basics][32]
