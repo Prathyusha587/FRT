@@ -1,5 +1,6 @@
 The link to the project site
-[Here is the Project URL](https://sites.google.com/view/coronachatbotbyazure/home) 
+
+[Project URL:](https://sites.google.com/view/coronachatbotbyazure/home)
 
 
 # QnA Maker
