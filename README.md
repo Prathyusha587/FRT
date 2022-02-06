@@ -2,7 +2,7 @@ The link to the project site
 
 [Project URL:](https://sites.google.com/view/coronachatbotbyazure/home)
 
-
+[PROJECT DEMO URL:](https://photos.app.goo.gl/WSvFqMVEc7VV7eEJ7) 
 # QnA Maker
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
